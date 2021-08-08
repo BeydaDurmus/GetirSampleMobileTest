@@ -1260,3 +1260,9 @@
 08-08-2021 18:47:32.274 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.spec
 08-08-2021 18:50:41.846 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.spec
 08-08-2021 18:50:41.851 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.spec
+08-08-2021 19:35:35.005 [Gauge] [ERROR] Unable to add directory C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs to file watcher: GetFileAttributes: Sistem belirtilen dosyayı bulamıyor.
+08-08-2021 19:35:35.013 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+08-08-2021 19:35:35.013 [Gauge] [DEBUG] Adding concepts from C:\Users\Dell\IdeaProjects\AppiumMobileTest\src\test\java\mobile\specs\GetirSample.cpt
+08-08-2021 19:35:35.013 [Gauge] [INFO] Initializing specs cache with 0 specs
+08-08-2021 19:35:35.014 [Gauge] [INFO] Initializing steps cache with 1 steps
+08-08-2021 19:35:35.014 [Gauge] [INFO] Gauge daemon initialized and listening on port: 57877
