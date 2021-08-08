@@ -88,9 +88,11 @@ public class StepImplementationHelper extends BaseTest {
 
     @Step("Remove item from the Basket")
     public void removeBasket(){
-        List<WebElement> basketControl=basketPage.removeBasket();
+       // List<WebElement> basketControl=basketPage.removeBasket();
+        WebElement basketTotal=basketPage.removeBasket();
+        //Assert.assertEquals(0,basketControl.size());
+        Assert.assertEquals("$0.00",basketTotal.getText());
 
-        Assert.assertEquals(0,basketControl.size());
     }
 
     @Step("Check price of the product")
