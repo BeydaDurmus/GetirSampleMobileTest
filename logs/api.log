@@ -239,3 +239,1024 @@
 08-08-2021 02:33:09.518 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > > 
 08-08-2021 02:33:10.637 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
 08-08-2021 02:33:10.653 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 02:47:39.090 [Gauge] [INFO] Watching directory: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs
+08-08-2021 02:47:39.091 [Gauge] [DEBUG] Found 1 files
+08-08-2021 02:47:39.094 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+08-08-2021 02:47:39.095 [Gauge] [INFO] Initializing specs cache with 1 specs
+08-08-2021 02:47:39.095 [Gauge] [DEBUG] Adding specs from C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 02:47:39.095 [Gauge] [INFO] Initializing steps cache with 1 steps
+08-08-2021 02:47:39.096 [Gauge] [INFO] Gauge daemon initialized and listening on port: 61716
+08-08-2021 02:47:55.927 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to GetirSample App" > 
+08-08-2021 02:47:55.928 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to GetirSample App" parameterizedStepValue:"Go to GetirSample App" > > 
+08-08-2021 02:47:56.453 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Change category to \"Water\"" > 
+08-08-2021 02:47:56.453 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > > 
+08-08-2021 02:47:56.457 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Change category to <category>" > 
+08-08-2021 02:47:56.457 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <category>" parameters:"category" > > 
+08-08-2021 02:47:56.459 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open \"1\" product detail" > 
+08-08-2021 02:47:56.459 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <1> product detail" parameters:"1" > > 
+08-08-2021 02:47:56.467 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open <index> product detail" > 
+08-08-2021 02:47:56.467 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <index> product detail" parameters:"index" > > 
+08-08-2021 02:47:56.475 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Add to Cart product" > 
+08-08-2021 02:47:56.475 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > > 
+08-08-2021 02:47:56.480 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to the cart" > 
+08-08-2021 02:47:56.481 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > > 
+08-08-2021 02:47:56.487 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Remove item from the Basket" > 
+08-08-2021 02:47:56.487 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > > 
+08-08-2021 13:52:47.635 [Gauge] [INFO] Watching directory: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs
+08-08-2021 13:52:47.639 [Gauge] [DEBUG] Found 1 files
+08-08-2021 13:52:47.636 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+08-08-2021 13:52:47.652 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 13:52:47.662 [Gauge] [INFO] Initializing specs cache with 1 specs
+08-08-2021 13:52:47.662 [Gauge] [DEBUG] Adding specs from C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 13:52:47.662 [Gauge] [INFO] Initializing steps cache with 1 steps
+08-08-2021 13:52:47.663 [Gauge] [INFO] Gauge daemon initialized and listening on port: 60890
+08-08-2021 13:53:00.042 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to GetirSample App" > 
+08-08-2021 13:53:00.043 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to GetirSample App" parameterizedStepValue:"Go to GetirSample App" > > 
+08-08-2021 13:53:00.112 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Change category to <category>" > 
+08-08-2021 13:53:00.124 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <category>" parameters:"category" > > 
+08-08-2021 13:53:00.167 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open <index> product detail" > 
+08-08-2021 13:53:00.168 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <index> product detail" parameters:"index" > > 
+08-08-2021 13:53:00.305 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Add to Cart product" > 
+08-08-2021 13:53:00.308 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > > 
+08-08-2021 13:53:00.340 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to the cart" > 
+08-08-2021 13:53:00.349 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > > 
+08-08-2021 13:53:00.535 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Remove item from the Basket" > 
+08-08-2021 13:53:00.547 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > > 
+08-08-2021 13:53:00.658 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Change category to \"Water\"" > 
+08-08-2021 13:53:00.666 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > > 
+08-08-2021 13:53:00.666 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open \"1\" product detail" > 
+08-08-2021 13:53:00.666 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <1> product detail" parameters:"1" > > 
+08-08-2021 14:10:55.943 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:10:55.945 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:10:56.027 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:10:56.027 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:11:04.087 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open" > 
+08-08-2021 14:11:04.087 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open" parameterizedStepValue:"Open" > > 
+08-08-2021 14:11:04.721 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open " > 
+08-08-2021 14:11:04.721 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open" parameterizedStepValue:"Open" > > 
+08-08-2021 14:11:06.186 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Getir" > 
+08-08-2021 14:11:06.186 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Getir" parameterizedStepValue:"Open Getir" > > 
+08-08-2021 14:11:08.296 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Getir Sample " > 
+08-08-2021 14:11:08.297 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Getir Sample" parameterizedStepValue:"Open Getir Sample" > > 
+08-08-2021 14:11:09.882 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Getir Sample APp" > 
+08-08-2021 14:11:09.884 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Getir Sample APp" parameterizedStepValue:"Open Getir Sample APp" > > 
+08-08-2021 14:11:10.812 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open Getir Sample App" > 
+08-08-2021 14:11:10.812 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open Getir Sample App" parameterizedStepValue:"Open Getir Sample App" > > 
+08-08-2021 14:14:53.835 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:14:53.883 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:14:54.863 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:14:54.863 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:14:54.869 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:14:54.869 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:14:54.981 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:14:54.981 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:14:54.982 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:14:54.982 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:14:55.008 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:14:55.008 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:14:55.008 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:14:55.008 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:14:55.008 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:14:55.008 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:14:55.177 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:14:55.178 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:14:55.190 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:14:55.190 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:14:55.191 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:14:55.191 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:14:55.222 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:14:55.222 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:14:55.223 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:14:55.223 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:14:55.269 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:14:55.269 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:14:55.269 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:14:55.270 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:14:55.809 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"O" > 
+08-08-2021 14:14:55.809 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"O" parameterizedStepValue:"O" > > 
+08-08-2021 14:14:55.828 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 14:14:55.828 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Go to GetirSample App" parameterizedStepValue:"Go to GetirSample App" > allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <1> product detail" parameters:"1" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > > 
+08-08-2021 14:14:55.833 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 14:14:55.833 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 14:15:37.115 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:15:37.116 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:16:10.092 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:16:10.094 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:16:10.167 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:16:10.167 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:16:10.170 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:16:10.170 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:16:11.984 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:16:11.992 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:16:12.071 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:16:12.071 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:16:12.072 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:16:12.072 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:16:12.949 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Che" > 
+08-08-2021 14:16:12.950 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Che" parameterizedStepValue:"Che" > > 
+08-08-2021 14:16:13.784 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check" > 
+08-08-2021 14:16:13.784 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check" parameterizedStepValue:"Check" > > 
+08-08-2021 14:16:14.753 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check " > 
+08-08-2021 14:16:14.753 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check" parameterizedStepValue:"Check" > > 
+08-08-2021 14:16:16.050 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check Onbo" > 
+08-08-2021 14:16:16.050 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check Onbo" parameterizedStepValue:"Check Onbo" > > 
+08-08-2021 14:16:16.767 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check Onboar" > 
+08-08-2021 14:16:16.767 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check Onboar" parameterizedStepValue:"Check Onboar" > > 
+08-08-2021 14:16:19.342 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check Onboarding Scrre" > 
+08-08-2021 14:16:19.342 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check Onboarding Scrre" parameterizedStepValue:"Check Onboarding Scrre" > > 
+08-08-2021 14:16:20.116 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check Onboarding Scre" > 
+08-08-2021 14:16:20.116 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check Onboarding Scre" parameterizedStepValue:"Check Onboarding Scre" > > 
+08-08-2021 14:16:22.283 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check Onboarding Screen" > 
+08-08-2021 14:16:22.284 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check Onboarding Screen" parameterizedStepValue:"Check Onboarding Screen" > > 
+08-08-2021 14:16:26.277 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"C" > 
+08-08-2021 14:16:26.277 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"C" parameterizedStepValue:"C" > > 
+08-08-2021 14:16:26.286 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 14:16:26.286 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > allSteps:<stepValue:"Open Getir Sample App" parameterizedStepValue:"Open Getir Sample App" > allSteps:<stepValue:"Go to GetirSample App" parameterizedStepValue:"Go to GetirSample App" > allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <1> product detail" parameters:"1" > > 
+08-08-2021 14:16:26.286 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 14:16:26.286 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 14:16:26.535 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ch" > 
+08-08-2021 14:16:26.535 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ch" parameterizedStepValue:"Ch" > > 
+08-08-2021 14:16:38.873 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:16:38.873 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:16:38.953 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:16:38.954 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:16:38.955 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:16:38.955 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:16:46.599 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check Homa" > 
+08-08-2021 14:16:46.599 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check Homa" parameterizedStepValue:"Check Homa" > > 
+08-08-2021 14:16:47.590 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check Home" > 
+08-08-2021 14:16:47.590 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check Home" parameterizedStepValue:"Check Home" > > 
+08-08-2021 14:16:48.561 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check Home PA" > 
+08-08-2021 14:16:48.561 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check Home PA" parameterizedStepValue:"Check Home PA" > > 
+08-08-2021 14:16:49.364 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check Home P" > 
+08-08-2021 14:16:49.364 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check Home P" parameterizedStepValue:"Check Home P" > > 
+08-08-2021 14:16:50.604 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check Home PAGE" > 
+08-08-2021 14:16:50.604 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check Home PAGE" parameterizedStepValue:"Check Home PAGE" > > 
+08-08-2021 14:16:51.672 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check Home PAa" > 
+08-08-2021 14:16:51.672 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check Home PAa" parameterizedStepValue:"Check Home PAa" > > 
+08-08-2021 14:16:54.012 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check Home Pa" > 
+08-08-2021 14:16:54.012 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check Home Pa" parameterizedStepValue:"Check Home Pa" > > 
+08-08-2021 14:16:56.303 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check Home Page Scr" > 
+08-08-2021 14:16:56.303 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check Home Page Scr" parameterizedStepValue:"Check Home Page Scr" > > 
+08-08-2021 14:16:56.732 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check Home Page Sc" > 
+08-08-2021 14:16:56.732 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check Home Page Sc" parameterizedStepValue:"Check Home Page Sc" > > 
+08-08-2021 14:16:58.634 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check H" > 
+08-08-2021 14:16:58.634 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check H" parameterizedStepValue:"Check H" > > 
+08-08-2021 14:17:04.572 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check home page screen" > 
+08-08-2021 14:17:04.572 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > > 
+08-08-2021 14:17:05.139 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:17:05.150 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:17:08.986 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 14:17:08.987 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > allSteps:<stepValue:"Check Onboarding Screen" parameterizedStepValue:"Check Onboarding Screen" > allSteps:<stepValue:"Go to GetirSample App" parameterizedStepValue:"Go to GetirSample App" > allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <1> product detail" parameters:"1" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > > 
+08-08-2021 14:17:08.987 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 14:17:08.987 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 14:17:12.992 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 14:17:12.992 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <1> product detail" parameters:"1" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > allSteps:<stepValue:"Check Onboarding Screen" parameterizedStepValue:"Check Onboarding Screen" > allSteps:<stepValue:"Go to GetirSample App" parameterizedStepValue:"Go to GetirSample App" > > 
+08-08-2021 14:17:12.992 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 14:17:12.992 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 14:17:16.513 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:17:16.514 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:26:52.827 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:26:52.857 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:26:52.994 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:26:53.021 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:26:53.122 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:26:53.129 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:27:06.005 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:27:06.006 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:27:07.892 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:27:07.920 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:27:11.434 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:27:11.447 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:27:13.008 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:27:13.008 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:27:13.052 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:27:13.053 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:27:13.221 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:27:13.221 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:27:13.224 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:27:13.225 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:27:13.357 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:27:13.357 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:27:13.361 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:27:13.362 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:27:13.391 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:27:13.392 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:27:13.392 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:27:13.392 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:27:13.392 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:27:13.392 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:27:13.393 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:27:13.393 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:27:13.623 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 14:27:13.624 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <1> product detail" parameters:"1" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > allSteps:<stepValue:"Check Onboarding Screen" parameterizedStepValue:"Check Onboarding Screen" > allSteps:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > > 
+08-08-2021 14:27:13.628 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 14:27:13.628 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 14:27:14.785 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:27:14.786 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:27:14.805 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:27:14.805 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:27:14.940 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:27:14.941 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:27:14.946 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:27:14.946 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:27:15.097 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:27:15.097 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:27:15.100 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:27:15.100 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:27:15.101 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:27:15.101 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:27:15.101 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:27:15.101 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:27:15.127 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:27:15.127 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:27:15.128 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:27:15.128 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:27:15.301 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:27:15.301 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:27:15.303 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:27:15.303 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:27:15.427 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:27:15.427 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:27:15.429 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:27:15.430 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:27:15.617 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:27:15.618 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:27:15.621 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:27:15.622 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:27:38.223 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:27:38.252 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:28:25.626 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:25.626 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:25.674 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:25.675 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:25.814 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:25.815 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:25.817 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:25.817 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:25.955 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:25.955 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:25.962 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:25.962 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:25.966 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:25.966 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:25.972 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:25.972 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:26.008 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:26.009 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:26.037 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:26.037 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:26.167 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:26.168 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:26.170 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:26.171 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:26.300 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:26.300 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:26.301 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:26.301 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:26.444 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:26.444 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:26.447 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:26.448 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:28.079 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"CH" > 
+08-08-2021 14:28:28.079 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"CH" parameterizedStepValue:"CH" > > 
+08-08-2021 14:28:28.126 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 14:28:28.127 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <1> product detail" parameters:"1" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > allSteps:<stepValue:"Check Onboarding Screen" parameterizedStepValue:"Check Onboarding Screen" > allSteps:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > > 
+08-08-2021 14:28:28.127 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 14:28:28.127 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 14:28:28.714 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 14:28:28.715 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Check Onboarding Screen" parameterizedStepValue:"Check Onboarding Screen" > allSteps:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <1> product detail" parameters:"1" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > > 
+08-08-2021 14:28:28.719 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 14:28:28.719 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 14:28:29.034 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:29.035 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:29.053 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:29.053 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:29.185 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:29.185 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:29.185 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:29.185 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:29.331 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:29.331 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:29.336 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:29.336 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:29.339 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:29.339 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:29.367 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:29.368 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:29.394 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:29.394 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:32.768 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:32.769 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:32.807 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:32.807 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:32.932 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:32.933 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:32.940 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:32.941 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:33.049 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:33.049 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:33.050 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:33.050 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:33.050 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:33.050 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:33.113 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:33.113 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:33.159 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:33.160 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:33.164 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:33.164 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:33.320 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"c" > 
+08-08-2021 14:28:33.320 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"c" parameterizedStepValue:"c" > > 
+08-08-2021 14:28:33.351 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 14:28:33.352 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > allSteps:<stepValue:"Check Onboarding Screen" parameterizedStepValue:"Check Onboarding Screen" > allSteps:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <1> product detail" parameters:"1" > > 
+08-08-2021 14:28:33.353 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 14:28:33.353 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 14:28:33.769 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:33.769 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:33.801 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:33.801 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:33.895 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:33.895 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:33.898 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:28:33.899 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:28:34.085 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 14:28:34.085 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Check Onboarding Screen" parameterizedStepValue:"Check Onboarding Screen" > allSteps:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <1> product detail" parameters:"1" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > > 
+08-08-2021 14:28:34.086 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 14:28:34.086 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 14:28:39.828 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 14:28:39.828 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Check Onboarding Screen" parameterizedStepValue:"Check Onboarding Screen" > allSteps:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <1> product detail" parameters:"1" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > > 
+08-08-2021 14:28:39.828 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 14:28:39.828 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 14:28:41.325 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:28:41.331 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:28:53.463 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check nboarding Screen" > 
+08-08-2021 14:28:53.464 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check nboarding Screen" parameterizedStepValue:"Check nboarding Screen" > > 
+08-08-2021 14:28:54.270 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check onboarding Screen" > 
+08-08-2021 14:28:54.270 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check onboarding Screen" parameterizedStepValue:"Check onboarding Screen" > > 
+08-08-2021 14:28:56.275 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check onboarding screen" > 
+08-08-2021 14:28:56.275 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check onboarding screen" parameterizedStepValue:"Check onboarding screen" > > 
+08-08-2021 14:28:58.926 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check 0nboarding Screen" > 
+08-08-2021 14:28:58.927 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check 0nboarding Screen" parameterizedStepValue:"Check 0nboarding Screen" > > 
+08-08-2021 14:28:58.968 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 14:28:58.968 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <1> product detail" parameters:"1" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > allSteps:<stepValue:"Check Onboarding Screen" parameterizedStepValue:"Check Onboarding Screen" > > 
+08-08-2021 14:28:58.971 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 14:28:58.972 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 14:28:58.993 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 14:28:58.994 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > allSteps:<stepValue:"Check Onboarding Screen" parameterizedStepValue:"Check Onboarding Screen" > allSteps:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <1> product detail" parameters:"1" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > > 
+08-08-2021 14:28:58.995 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 14:28:58.996 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 14:29:02.253 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 14:29:02.253 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > allSteps:<stepValue:"Check Onboarding Screen" parameterizedStepValue:"Check Onboarding Screen" > allSteps:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <1> product detail" parameters:"1" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > > 
+08-08-2021 14:29:02.254 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 14:29:02.254 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 14:29:04.289 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check onboarding creen" > 
+08-08-2021 14:29:04.290 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check onboarding creen" parameterizedStepValue:"Check onboarding creen" > > 
+08-08-2021 14:29:04.526 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 14:29:04.527 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <1> product detail" parameters:"1" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > allSteps:<stepValue:"Check Onboarding Screen" parameterizedStepValue:"Check Onboarding Screen" > allSteps:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > > 
+08-08-2021 14:29:04.531 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 14:29:04.531 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 14:29:08.697 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 14:29:08.697 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <1> product detail" parameters:"1" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > allSteps:<stepValue:"Check Onboarding Screen" parameterizedStepValue:"Check Onboarding Screen" > allSteps:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > > 
+08-08-2021 14:29:08.698 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 14:29:08.698 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 14:29:12.954 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 14:29:12.955 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Check Onboarding Screen" parameterizedStepValue:"Check Onboarding Screen" > allSteps:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <1> product detail" parameters:"1" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > > 
+08-08-2021 14:29:12.957 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 14:29:12.957 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 14:29:17.104 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check onboarding screencreen" > 
+08-08-2021 14:29:17.104 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check onboarding screencreen" parameterizedStepValue:"Check onboarding screencreen" > > 
+08-08-2021 14:29:23.324 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check onboarding screencree" > 
+08-08-2021 14:29:23.325 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check onboarding screencree" parameterizedStepValue:"Check onboarding screencree" > > 
+08-08-2021 14:29:23.613 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check onboarding screencre" > 
+08-08-2021 14:29:23.613 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check onboarding screencre" parameterizedStepValue:"Check onboarding screencre" > > 
+08-08-2021 14:29:23.645 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check onboarding screencr" > 
+08-08-2021 14:29:23.645 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check onboarding screencr" parameterizedStepValue:"Check onboarding screencr" > > 
+08-08-2021 14:29:23.804 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check onboarding screenc" > 
+08-08-2021 14:29:23.804 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check onboarding screenc" parameterizedStepValue:"Check onboarding screenc" > > 
+08-08-2021 14:30:05.497 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the " > 
+08-08-2021 14:30:05.503 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the" parameterizedStepValue:"Open the" > > 
+08-08-2021 14:30:07.554 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the menu" > 
+08-08-2021 14:30:07.554 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the menu" parameterizedStepValue:"Open the menu" > > 
+08-08-2021 14:30:25.156 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:30:25.201 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:53:57.786 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:53:57.788 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:53:57.797 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:53:57.797 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:53:59.180 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Clic" > 
+08-08-2021 14:53:59.180 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Clic" parameterizedStepValue:"Clic" > > 
+08-08-2021 14:54:00.035 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click" > 
+08-08-2021 14:54:00.036 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click" parameterizedStepValue:"Click" > > 
+08-08-2021 14:54:00.894 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click " > 
+08-08-2021 14:54:00.894 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click" parameterizedStepValue:"Click" > > 
+08-08-2021 14:54:06.135 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click <" > 
+08-08-2021 14:54:06.136 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+08-08-2021 14:54:07.309 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click <>" > 
+08-08-2021 14:54:07.309 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {}" parameterizedStepValue:"Click <>" parameters:"" > > 
+08-08-2021 14:54:10.407 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click <category> " > 
+08-08-2021 14:54:10.407 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {}" parameterizedStepValue:"Click <category>" parameters:"category" > > 
+08-08-2021 14:54:15.162 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click <category> in novbar" > 
+08-08-2021 14:54:15.162 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} in novbar" parameterizedStepValue:"Click <category> in novbar" parameters:"category" > > 
+08-08-2021 14:54:33.184 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click <category> in navbar" > 
+08-08-2021 14:54:33.186 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} in navbar" parameterizedStepValue:"Click <category> in navbar" parameters:"category" > > 
+08-08-2021 14:55:41.369 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 14:55:41.369 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > allSteps:<stepValue:"Check onboarding screen" parameterizedStepValue:"Check onboarding screen" > allSteps:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <1> product detail" parameters:"1" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > > 
+08-08-2021 14:55:41.370 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 14:55:41.370 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 14:55:41.721 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Cl" > 
+08-08-2021 14:55:41.721 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Cl" parameterizedStepValue:"Cl" > > 
+08-08-2021 14:55:43.186 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"category\" in navbar" > 
+08-08-2021 14:55:43.187 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} in navbar" parameterizedStepValue:"Click <category> in navbar" parameters:"category" > > 
+08-08-2021 14:55:44.983 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"B\" in navbar" > 
+08-08-2021 14:55:44.983 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} in navbar" parameterizedStepValue:"Click <B> in navbar" parameters:"B" > > 
+08-08-2021 14:55:45.145 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Ba\" in navbar" > 
+08-08-2021 14:55:45.145 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} in navbar" parameterizedStepValue:"Click <Ba> in navbar" parameters:"Ba" > > 
+08-08-2021 14:55:45.559 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Bab\" in navbar" > 
+08-08-2021 14:55:45.559 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} in navbar" parameterizedStepValue:"Click <Bab> in navbar" parameters:"Bab" > > 
+08-08-2021 14:55:45.714 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Baby\" in navbar" > 
+08-08-2021 14:55:45.714 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} in navbar" parameterizedStepValue:"Click <Baby> in navbar" parameters:"Baby" > > 
+08-08-2021 14:55:46.181 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Baby \" in navbar" > 
+08-08-2021 14:55:46.184 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} in navbar" parameterizedStepValue:"Click <Baby > in navbar" parameters:"Baby " > > 
+08-08-2021 14:55:46.529 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Baby C\" in navbar" > 
+08-08-2021 14:55:46.529 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} in navbar" parameterizedStepValue:"Click <Baby C> in navbar" parameters:"Baby C" > > 
+08-08-2021 14:55:46.698 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Baby Ca\" in navbar" > 
+08-08-2021 14:55:46.698 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} in navbar" parameterizedStepValue:"Click <Baby Ca> in navbar" parameters:"Baby Ca" > > 
+08-08-2021 14:55:46.982 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Baby Car\" in navbar" > 
+08-08-2021 14:55:46.982 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} in navbar" parameterizedStepValue:"Click <Baby Car> in navbar" parameters:"Baby Car" > > 
+08-08-2021 14:55:47.051 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Baby Care\" in navbar" > 
+08-08-2021 14:55:47.052 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} in navbar" parameterizedStepValue:"Click <Baby Care> in navbar" parameters:"Baby Care" > > 
+08-08-2021 14:55:48.563 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:55:48.642 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:55:49.895 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:55:49.906 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:56:00.355 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:56:00.395 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:56:00.772 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:56:00.773 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:56:00.789 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:56:00.790 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:56:00.906 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:56:00.906 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:56:00.907 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:56:00.907 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:56:01.066 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:56:01.066 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:56:01.067 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:56:01.068 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:56:01.070 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:56:01.070 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:56:01.138 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:56:01.138 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:56:01.153 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:56:01.153 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:56:01.155 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:56:01.156 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:56:01.312 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:56:01.312 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:56:01.316 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 14:56:01.317 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 14:56:01.568 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Op" > 
+08-08-2021 14:56:01.568 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Op" parameterizedStepValue:"Op" > > 
+08-08-2021 14:56:01.648 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 14:56:01.649 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <1> product detail" parameters:"1" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > allSteps:<stepValue:"Click {} in navbar" parameterizedStepValue:"Click <Baby Care> in navbar" parameters:"Baby Care" > allSteps:<stepValue:"Check onboarding screen" parameterizedStepValue:"Check onboarding screen" > > 
+08-08-2021 14:56:01.651 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 14:56:01.651 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 14:56:01.860 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ope" > 
+08-08-2021 14:56:01.860 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ope" parameterizedStepValue:"Ope" > > 
+08-08-2021 14:56:02.833 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open \"index\" product detail" > 
+08-08-2021 14:56:02.833 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <index> product detail" parameters:"index" > > 
+08-08-2021 14:56:04.569 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open \"\" product detail" > 
+08-08-2021 14:56:04.569 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <> product detail" parameters:"" > > 
+08-08-2021 14:56:04.781 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open \"3\" product detail" > 
+08-08-2021 14:56:04.782 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <3> product detail" parameters:"3" > > 
+08-08-2021 14:56:05.841 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 14:56:05.843 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:01:22.073 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check price of the product" > 
+08-08-2021 15:01:22.073 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check price of the product" parameterizedStepValue:"Check price of the product" > > 
+08-08-2021 15:02:10.532 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:02:10.553 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:02:10.853 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:02:10.853 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:02:10.857 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:02:10.857 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:02:10.891 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:02:10.891 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:02:10.891 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:02:10.891 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:02:10.915 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:02:10.915 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:02:10.915 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:02:10.915 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:02:10.915 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:02:10.915 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:02:11.174 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:02:11.174 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:02:11.177 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:02:11.177 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:02:11.178 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:02:11.178 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:02:11.228 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:02:11.228 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:02:11.228 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:02:11.228 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:02:11.282 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:02:11.282 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:02:11.282 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:02:11.282 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:02:11.444 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 15:02:11.444 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <3> product detail" parameters:"3" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > allSteps:<stepValue:"Click {} in navbar" parameterizedStepValue:"Click <Baby Care> in navbar" parameters:"Baby Care" > allSteps:<stepValue:"Check onboarding screen" parameterizedStepValue:"Check onboarding screen" > allSteps:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > > 
+08-08-2021 15:02:11.444 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 15:02:11.444 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 15:02:53.192 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:02:53.192 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:02:54.563 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Back" > 
+08-08-2021 15:02:54.563 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Back" parameterizedStepValue:"Back" > > 
+08-08-2021 15:02:55.561 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Bac" > 
+08-08-2021 15:02:55.561 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Bac" parameterizedStepValue:"Bac" > > 
+08-08-2021 15:02:57.499 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Back to " > 
+08-08-2021 15:02:57.500 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Back to" parameterizedStepValue:"Back to" > > 
+08-08-2021 15:03:01.240 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Back to page" > 
+08-08-2021 15:03:01.240 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Back to page" parameterizedStepValue:"Back to page" > > 
+08-08-2021 15:03:17.587 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:03:17.588 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:03:32.995 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"B" > 
+08-08-2021 15:03:32.995 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"B" parameterizedStepValue:"B" > > 
+08-08-2021 15:03:33.006 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 15:03:33.006 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <3> product detail" parameters:"3" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > allSteps:<stepValue:"Click {} in navbar" parameterizedStepValue:"Click <Baby Care> in navbar" parameters:"Baby Care" > allSteps:<stepValue:"Check price of the product" parameterizedStepValue:"Check price of the product" > allSteps:<stepValue:"Check onboarding screen" parameterizedStepValue:"Check onboarding screen" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > > 
+08-08-2021 15:03:33.006 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 15:03:33.006 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 15:03:33.142 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ba" > 
+08-08-2021 15:03:33.142 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ba" parameterizedStepValue:"Ba" > > 
+08-08-2021 15:03:33.277 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Baa" > 
+08-08-2021 15:03:33.277 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Baa" parameterizedStepValue:"Baa" > > 
+08-08-2021 15:03:34.852 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 15:03:34.852 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Check price of the product" parameterizedStepValue:"Check price of the product" > allSteps:<stepValue:"Check onboarding screen" parameterizedStepValue:"Check onboarding screen" > allSteps:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <3> product detail" parameters:"3" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Click {} in navbar" parameterizedStepValue:"Click <Baby Care> in navbar" parameters:"Baby Care" > > 
+08-08-2021 15:03:34.852 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 15:03:34.852 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 15:03:35.854 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:03:35.856 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:03:42.224 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:03:42.225 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:04:22.985 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:04:22.985 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:04:26.429 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Control Page" > 
+08-08-2021 15:04:26.429 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Control Page" parameterizedStepValue:"Control Page" > > 
+08-08-2021 15:04:29.630 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Control Page Exic" > 
+08-08-2021 15:04:29.631 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Control Page Exic" parameterizedStepValue:"Control Page Exic" > > 
+08-08-2021 15:04:34.406 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Control Page Existence" > 
+08-08-2021 15:04:34.406 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Control Page Existence" parameterizedStepValue:"Control Page Existence" > > 
+08-08-2021 15:05:07.891 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Control  Page Existence" > 
+08-08-2021 15:05:07.892 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Control  Page Existence" parameterizedStepValue:"Control  Page Existence" > > 
+08-08-2021 15:05:08.570 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Control < Page Existence" > 
+08-08-2021 15:05:08.571 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+08-08-2021 15:05:09.068 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Control <> Page Existence" > 
+08-08-2021 15:05:09.068 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Control {} Page Existence" parameterizedStepValue:"Control <> Page Existence" parameters:"" > > 
+08-08-2021 15:05:12.398 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Control > Page Existence" > 
+08-08-2021 15:05:12.399 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Control > Page Existence" parameterizedStepValue:"Control > Page Existence" > > 
+08-08-2021 15:05:15.458 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Control <category> Page Existence" > 
+08-08-2021 15:05:15.459 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Control {} Page Existence" parameterizedStepValue:"Control <category> Page Existence" parameters:"category" > > 
+08-08-2021 15:05:31.206 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:05:31.232 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:05:31.584 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:05:31.584 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:05:31.598 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:05:31.598 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:05:31.720 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:05:31.720 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:05:31.720 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:05:31.720 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:05:31.848 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:05:31.848 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:05:31.848 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:05:31.848 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:05:31.851 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:05:31.852 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:05:31.912 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:05:31.912 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:05:31.986 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:05:31.987 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:05:31.989 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:05:31.989 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:05:32.126 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:05:32.126 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:05:32.127 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:05:32.128 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:05:32.315 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 15:05:32.315 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<> allSteps:<stepValue:"Check onboarding screen" parameterizedStepValue:"Check onboarding screen" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <3> product detail" parameters:"3" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > allSteps:<stepValue:"Click {} in navbar" parameterizedStepValue:"Click <Baby Care> in navbar" parameters:"Baby Care" > allSteps:<stepValue:"Check price of the product" parameterizedStepValue:"Check price of the product" > allSteps:<stepValue:"Back to page" parameterizedStepValue:"Back to page" > allSteps:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > > 
+08-08-2021 15:05:32.316 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 15:05:32.316 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 15:05:32.440 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Co" > 
+08-08-2021 15:05:32.441 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Co" parameterizedStepValue:"Co" > > 
+08-08-2021 15:05:32.476 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 15:05:32.476 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Check price of the product" parameterizedStepValue:"Check price of the product" > allSteps:<stepValue:"Back to page" parameterizedStepValue:"Back to page" > allSteps:<> allSteps:<stepValue:"Check onboarding screen" parameterizedStepValue:"Check onboarding screen" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <3> product detail" parameters:"3" > allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > allSteps:<stepValue:"Click {} in navbar" parameterizedStepValue:"Click <Baby Care> in navbar" parameters:"Baby Care" > allSteps:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > > 
+08-08-2021 15:05:32.477 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 15:05:32.477 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 15:05:33.733 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Control \"category\" Page Existence" > 
+08-08-2021 15:05:33.733 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Control {} Page Existence" parameterizedStepValue:"Control <category> Page Existence" parameters:"category" > > 
+08-08-2021 15:05:34.731 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Control \"B\" Page Existence" > 
+08-08-2021 15:05:34.731 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Control {} Page Existence" parameterizedStepValue:"Control <B> Page Existence" parameters:"B" > > 
+08-08-2021 15:05:34.906 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Control \"Ba\" Page Existence" > 
+08-08-2021 15:05:34.906 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Control {} Page Existence" parameterizedStepValue:"Control <Ba> Page Existence" parameters:"Ba" > > 
+08-08-2021 15:05:35.081 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Control \"Bab\" Page Existence" > 
+08-08-2021 15:05:35.081 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Control {} Page Existence" parameterizedStepValue:"Control <Bab> Page Existence" parameters:"Bab" > > 
+08-08-2021 15:05:35.602 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Control \"Baby Care\" Page Existence" > 
+08-08-2021 15:05:35.603 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Control {} Page Existence" parameterizedStepValue:"Control <Baby Care> Page Existence" parameters:"Baby Care" > > 
+08-08-2021 15:05:37.053 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:05:37.075 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:05:41.066 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:05:41.070 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:05:41.379 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:05:41.379 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:05:41.383 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:05:41.383 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:05:41.503 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:05:41.503 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:05:41.505 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:05:41.506 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:05:41.591 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:05:41.592 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:05:41.593 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:05:41.594 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:05:41.594 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:05:41.595 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:05:41.687 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:05:41.687 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:05:41.736 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:05:41.736 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:05:41.738 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:05:41.738 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:05:41.868 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:05:41.868 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:05:41.870 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:05:41.870 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:05:41.964 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:05:41.964 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:05:41.967 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:05:41.967 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:05:43.397 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 15:05:43.401 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Click {} in navbar" parameterizedStepValue:"Click <Baby Care> in navbar" parameters:"Baby Care" > allSteps:<stepValue:"Control {} Page Existence" parameterizedStepValue:"Control <Baby Care> Page Existence" parameters:"Baby Care" > allSteps:<stepValue:"Back to page" parameterizedStepValue:"Back to page" > allSteps:<> allSteps:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <3> product detail" parameters:"3" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > allSteps:<stepValue:"Check price of the product" parameterizedStepValue:"Check price of the product" > allSteps:<stepValue:"Check onboarding screen" parameterizedStepValue:"Check onboarding screen" > > 
+08-08-2021 15:05:43.404 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 15:05:43.404 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 15:05:45.108 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Control \"W\" Page Existence" > 
+08-08-2021 15:05:45.109 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Control {} Page Existence" parameterizedStepValue:"Control <W> Page Existence" parameters:"W" > > 
+08-08-2021 15:05:45.494 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Control \"Wa\" Page Existence" > 
+08-08-2021 15:05:45.494 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Control {} Page Existence" parameterizedStepValue:"Control <Wa> Page Existence" parameters:"Wa" > > 
+08-08-2021 15:05:45.851 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Control \"Water\" Page Existence" > 
+08-08-2021 15:05:45.851 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Control {} Page Existence" parameterizedStepValue:"Control <Water> Page Existence" parameters:"Water" > > 
+08-08-2021 15:05:47.170 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:05:47.189 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:06:06.929 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:06:06.939 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:06:09.101 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:06:09.101 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:06:09.109 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:06:09.109 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:06:09.191 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:06:09.191 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:06:09.193 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:06:09.193 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:06:09.296 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:06:09.297 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:06:09.297 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:06:09.297 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:06:09.297 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:06:09.297 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:06:09.469 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 15:06:09.471 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Check onboarding screen" parameterizedStepValue:"Check onboarding screen" > allSteps:<stepValue:"Control {} Page Existence" parameterizedStepValue:"Control <Water> Page Existence" parameters:"Water" > allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Click {} in navbar" parameterizedStepValue:"Click <Baby Care> in navbar" parameters:"Baby Care" > allSteps:<stepValue:"Back to page" parameterizedStepValue:"Back to page" > allSteps:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <3> product detail" parameters:"3" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > allSteps:<stepValue:"Check price of the product" parameterizedStepValue:"Check price of the product" > > 
+08-08-2021 15:06:09.473 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 15:06:09.474 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 15:06:14.008 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:06:14.012 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:15:57.089 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:15:57.136 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:15:57.459 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:15:57.459 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:15:57.493 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:15:57.493 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:15:57.586 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:15:57.586 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:15:57.589 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:15:57.589 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:15:57.696 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:15:57.697 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:15:57.699 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:15:57.700 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:15:57.701 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:15:57.701 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:15:57.763 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:15:57.763 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:15:57.831 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:15:57.831 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:15:57.833 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:15:57.834 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:15:57.980 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:15:57.980 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:15:57.983 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:15:57.984 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:15:58.129 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:15:58.129 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:15:58.130 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 15:15:58.130 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 15:15:58.463 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 15:15:58.464 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > allSteps:<stepValue:"Check price of the product" parameterizedStepValue:"Check price of the product" > allSteps:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > allSteps:<stepValue:"Control {} Page Existence" parameterizedStepValue:"Control <Baby Care> Page Existence" parameters:"Baby Care" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Click {} in navbar" parameterizedStepValue:"Click <Baby Care> in navbar" parameters:"Baby Care" > allSteps:<stepValue:"Back to page" parameterizedStepValue:"Back to page" > allSteps:<stepValue:"Check onboarding screen" parameterizedStepValue:"Check onboarding screen" > allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <3> product detail" parameters:"3" > > 
+08-08-2021 15:15:58.468 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 15:15:58.468 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 15:16:01.327 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:16:01.363 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:59:43.089 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:59:43.097 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:59:50.962 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check onboarding screen*Check home page screen" > 
+08-08-2021 15:59:50.962 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check onboarding screen*Check home page screen" parameterizedStepValue:"Check onboarding screen*Check home page screen" > > 
+08-08-2021 15:59:51.702 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 15:59:51.703 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 16:01:25.315 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 16:01:25.315 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 16:01:25.372 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 16:01:25.372 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 16:01:25.374 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 16:01:25.374 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 16:01:29.650 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click cate" > 
+08-08-2021 16:01:29.651 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click cate" parameterizedStepValue:"Click cate" > > 
+08-08-2021 16:01:31.430 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click <" > 
+08-08-2021 16:01:31.430 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+08-08-2021 16:01:32.712 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click <ca>" > 
+08-08-2021 16:01:32.712 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {}" parameterizedStepValue:"Click <ca>" parameters:"ca" > > 
+08-08-2021 16:01:33.691 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click <category>" > 
+08-08-2021 16:01:33.691 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {}" parameterizedStepValue:"Click <category>" parameters:"category" > > 
+08-08-2021 16:01:51.755 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click <category> from  " > 
+08-08-2021 16:01:51.755 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from" parameterizedStepValue:"Click <category> from" parameters:"category" > > 
+08-08-2021 16:01:52.335 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click <category> from " > 
+08-08-2021 16:01:52.335 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from" parameterizedStepValue:"Click <category> from" parameters:"category" > > 
+08-08-2021 16:01:58.626 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click <category> from < " > 
+08-08-2021 16:01:58.626 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+08-08-2021 16:01:58.986 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click <category> from <> " > 
+08-08-2021 16:01:58.986 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <category> from <>" parameters:"category" parameters:"" > > 
+08-08-2021 16:02:00.978 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click <category> from <location> " > 
+08-08-2021 16:02:00.979 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <category> from <location>" parameters:"category" parameters:"location" > > 
+08-08-2021 16:02:59.821 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Check onboarding tscreen" > 
+08-08-2021 16:02:59.821 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Check onboarding tscreen" parameterizedStepValue:"Check onboarding tscreen" > > 
+08-08-2021 16:04:18.062 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 16:04:18.062 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Check onboarding screen" parameterizedStepValue:"Check onboarding screen" > allSteps:<stepValue:"Control {} Page Existence" parameterizedStepValue:"Control <Baby Care> Page Existence" parameters:"Baby Care" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <3> product detail" parameters:"3" > allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Click {} in navbar" parameterizedStepValue:"Click <Baby Care> in navbar" parameters:"Baby Care" > allSteps:<stepValue:"Check price of the product" parameterizedStepValue:"Check price of the product" > allSteps:<stepValue:"Back to page" parameterizedStepValue:"Back to page" > allSteps:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > allSteps:<stepValue:"Open the menu" parameterizedStepValue:"Open the menu" > > 
+08-08-2021 16:04:18.062 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 16:04:18.062 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 16:04:19.560 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"category\" from \"location\"" > 
+08-08-2021 16:04:19.560 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <category> from <location>" parameters:"category" parameters:"location" > > 
+08-08-2021 16:04:20.738 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"W\" from \"location\"" > 
+08-08-2021 16:04:20.738 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <W> from <location>" parameters:"W" parameters:"location" > > 
+08-08-2021 16:04:20.970 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Wa\" from \"location\"" > 
+08-08-2021 16:04:20.970 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Wa> from <location>" parameters:"Wa" parameters:"location" > > 
+08-08-2021 16:04:21.260 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Wat\" from \"location\"" > 
+08-08-2021 16:04:21.260 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Wat> from <location>" parameters:"Wat" parameters:"location" > > 
+08-08-2021 16:04:21.349 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Wate\" from \"location\"" > 
+08-08-2021 16:04:21.349 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Wate> from <location>" parameters:"Wate" parameters:"location" > > 
+08-08-2021 16:04:21.456 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Water\" from \"location\"" > 
+08-08-2021 16:04:21.456 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Water> from <location>" parameters:"Water" parameters:"location" > > 
+08-08-2021 16:04:22.540 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Water\" from \"t\"" > 
+08-08-2021 16:04:22.540 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Water> from <t>" parameters:"Water" parameters:"t" > > 
+08-08-2021 16:04:22.683 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Water\" from \"ta\"" > 
+08-08-2021 16:04:22.683 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Water> from <ta>" parameters:"Water" parameters:"ta" > > 
+08-08-2021 16:04:22.823 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Water\" from \"tab\"" > 
+08-08-2021 16:04:22.823 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Water> from <tab>" parameters:"Water" parameters:"tab" > > 
+08-08-2021 16:04:22.901 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Water\" from \"tabs\"" > 
+08-08-2021 16:04:22.901 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Water> from <tabs>" parameters:"Water" parameters:"tabs" > > 
+08-08-2021 16:04:27.593 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 16:04:27.593 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Back to page" parameterizedStepValue:"Back to page" > allSteps:<stepValue:"Check onboarding screen" parameterizedStepValue:"Check onboarding screen" > allSteps:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > allSteps:<stepValue:"Change category to {}" parameterizedStepValue:"Change category to <Water>" parameters:"Water" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <3> product detail" parameters:"3" > allSteps:<stepValue:"Open the menu" parameterizedStepValue:"Open the menu" > allSteps:<stepValue:"Click {} in navbar" parameterizedStepValue:"Click <Baby Care> in navbar" parameters:"Baby Care" > allSteps:<stepValue:"Check price of the product" parameterizedStepValue:"Check price of the product" > allSteps:<stepValue:"Control {} Page Existence" parameterizedStepValue:"Control <Baby Care> Page Existence" parameters:"Baby Care" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > > 
+08-08-2021 16:04:27.594 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 16:04:27.594 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 16:04:30.046 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"B\" from \"location\"" > 
+08-08-2021 16:04:30.046 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <B> from <location>" parameters:"B" parameters:"location" > > 
+08-08-2021 16:04:30.167 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Ba\" from \"location\"" > 
+08-08-2021 16:04:30.167 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Ba> from <location>" parameters:"Ba" parameters:"location" > > 
+08-08-2021 16:04:30.309 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Bab\" from \"location\"" > 
+08-08-2021 16:04:30.309 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Bab> from <location>" parameters:"Bab" parameters:"location" > > 
+08-08-2021 16:04:30.445 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Baba\" from \"location\"" > 
+08-08-2021 16:04:30.446 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Baba> from <location>" parameters:"Baba" parameters:"location" > > 
+08-08-2021 16:04:30.608 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Babay\" from \"location\"" > 
+08-08-2021 16:04:30.608 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Babay> from <location>" parameters:"Babay" parameters:"location" > > 
+08-08-2021 16:04:31.599 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Baby\" from \"location\"" > 
+08-08-2021 16:04:31.599 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Baby> from <location>" parameters:"Baby" parameters:"location" > > 
+08-08-2021 16:04:32.618 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Baby Care\" from \"location\"" > 
+08-08-2021 16:04:32.618 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Baby Care> from <location>" parameters:"Baby Care" parameters:"location" > > 
+08-08-2021 16:04:34.015 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Baby Care\" from \"n\"" > 
+08-08-2021 16:04:34.015 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Baby Care> from <n>" parameters:"Baby Care" parameters:"n" > > 
+08-08-2021 16:04:34.129 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Baby Care\" from \"na\"" > 
+08-08-2021 16:04:34.129 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Baby Care> from <na>" parameters:"Baby Care" parameters:"na" > > 
+08-08-2021 16:04:34.413 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Baby Care\" from \"nav\"" > 
+08-08-2021 16:04:34.413 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Baby Care> from <nav>" parameters:"Baby Care" parameters:"nav" > > 
+08-08-2021 16:04:34.588 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Baby Care\" from \"nav-\"" > 
+08-08-2021 16:04:34.588 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Baby Care> from <nav->" parameters:"Baby Care" parameters:"nav-" > > 
+08-08-2021 16:04:34.765 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Baby Care\" from \"nav-b\"" > 
+08-08-2021 16:04:34.766 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Baby Care> from <nav-b>" parameters:"Baby Care" parameters:"nav-b" > > 
+08-08-2021 16:04:34.875 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Baby Care\" from \"nav-ba\"" > 
+08-08-2021 16:04:34.875 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Baby Care> from <nav-ba>" parameters:"Baby Care" parameters:"nav-ba" > > 
+08-08-2021 16:04:35.020 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Baby Care\" from \"nav-bar\"" > 
+08-08-2021 16:04:35.020 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Baby Care> from <nav-bar>" parameters:"Baby Care" parameters:"nav-bar" > > 
+08-08-2021 16:04:43.883 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Baby Care\" from \"\"" > 
+08-08-2021 16:04:43.883 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Baby Care> from <>" parameters:"Baby Care" parameters:"" > > 
+08-08-2021 16:04:44.238 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Baby Care\" from \"m\"" > 
+08-08-2021 16:04:44.238 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Baby Care> from <m>" parameters:"Baby Care" parameters:"m" > > 
+08-08-2021 16:04:44.469 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Baby Care\" from \"me\"" > 
+08-08-2021 16:04:44.469 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Baby Care> from <me>" parameters:"Baby Care" parameters:"me" > > 
+08-08-2021 16:04:44.569 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Baby Care\" from \"men\"" > 
+08-08-2021 16:04:44.569 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Baby Care> from <men>" parameters:"Baby Care" parameters:"men" > > 
+08-08-2021 16:04:44.606 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click \"Baby Care\" from \"menu\"" > 
+08-08-2021 16:04:44.606 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Baby Care> from <menu>" parameters:"Baby Care" parameters:"menu" > > 
+08-08-2021 16:04:45.743 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 16:04:45.759 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 16:55:32.391 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open \"1\" product detmobiail" > 
+08-08-2021 16:55:32.430 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {} product detmobiail" parameterizedStepValue:"Open <1> product detmobiail" parameters:"1" > > 
+08-08-2021 16:55:32.783 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open \"1\" product detmobileail" > 
+08-08-2021 16:55:32.783 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {} product detmobileail" parameterizedStepValue:"Open <1> product detmobileail" parameters:"1" > > 
+08-08-2021 16:55:33.124 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 16:55:33.135 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Baby Care> from <menu>" parameters:"Baby Care" parameters:"menu" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > allSteps:<stepValue:"Check price of the product" parameterizedStepValue:"Check price of the product" > allSteps:<stepValue:"Back to page" parameterizedStepValue:"Back to page" > allSteps:<stepValue:"Check onboarding screen" parameterizedStepValue:"Check onboarding screen" > allSteps:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > allSteps:<stepValue:"Control {} Page Existence" parameterizedStepValue:"Control <Baby Care> Page Existence" parameters:"Baby Care" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <3> product detail" parameters:"3" > allSteps:<stepValue:"Open the menu" parameterizedStepValue:"Open the menu" > > 
+08-08-2021 16:55:33.143 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 16:55:33.143 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 16:55:33.170 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 16:55:33.174 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Control {} Page Existence" parameterizedStepValue:"Control <Baby Care> Page Existence" parameters:"Baby Care" > allSteps:<stepValue:"Go to the cart" parameterizedStepValue:"Go to the cart" > allSteps:<stepValue:"Open the menu" parameterizedStepValue:"Open the menu" > allSteps:<stepValue:"Check price of the product" parameterizedStepValue:"Check price of the product" > allSteps:<stepValue:"Back to page" parameterizedStepValue:"Back to page" > allSteps:<stepValue:"Check onboarding screen" parameterizedStepValue:"Check onboarding screen" > allSteps:<stepValue:"Check home page screen" parameterizedStepValue:"Check home page screen" > allSteps:<stepValue:"Click {} from {}" parameterizedStepValue:"Click <Baby Care> from <menu>" parameters:"Baby Care" parameters:"menu" > allSteps:<stepValue:"Open {} product detail" parameterizedStepValue:"Open <3> product detail" parameters:"3" > allSteps:<stepValue:"Add to Cart product" parameterizedStepValue:"Add to Cart product" > allSteps:<stepValue:"Remove item from the Basket" parameterizedStepValue:"Remove item from the Basket" > > 
+08-08-2021 16:55:33.177 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 16:55:33.177 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 16:55:33.771 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open \"1\" product detmail" > 
+08-08-2021 16:55:33.772 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open {} product detmail" parameterizedStepValue:"Open <1> product detmail" parameters:"1" > > 
+08-08-2021 17:09:24.931 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 18:29:01.710 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 18:29:01.712 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 18:29:01.712 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 18:39:27.681 [Gauge] [INFO] Spec file removed: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\example.spec
+08-08-2021 18:39:27.688 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.spec
+08-08-2021 18:41:38.204 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.spec
+08-08-2021 18:41:38.207 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.spec
+08-08-2021 18:41:38.644 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.spec
+08-08-2021 18:41:38.647 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.spec
+08-08-2021 18:41:49.249 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.spec
+08-08-2021 18:41:49.254 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.spec
+08-08-2021 18:41:50.529 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.spec
+08-08-2021 18:41:50.531 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.spec
+08-08-2021 18:42:19.791 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:42:19.793 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:42:19.871 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:42:19.871 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:42:20.071 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:42:20.075 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:42:20.281 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:42:20.281 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:42:20.424 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:42:20.425 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:42:20.551 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 18:42:20.551 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<> 
+08-08-2021 18:42:20.554 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 18:42:20.555 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 18:42:22.419 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:42:22.420 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:42:22.425 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:42:22.428 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:42:34.945 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.spec
+08-08-2021 18:42:34.958 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.spec
+08-08-2021 18:45:18.028 [Gauge] [INFO] Concept file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.cpt
+08-08-2021 18:45:18.046 [Gauge] [ERROR] Parse failure: [[ParseError] failed to read concept file C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.cpt]
+08-08-2021 18:45:34.614 [Gauge] [INFO] Concept file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.cpt
+08-08-2021 18:45:34.615 [Gauge] [ERROR] Parse failure: [[ParseError] failed to read concept file C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.cpt]
+08-08-2021 18:45:34.617 [Gauge] [INFO] Concept file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.cpt
+08-08-2021 18:45:34.619 [Gauge] [ERROR] Parse failure: [[ParseError] failed to read concept file C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.cpt]
+08-08-2021 18:45:53.785 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Arama b\303\274y\303\274te\303\247 simgesine t\304\261kla" > 
+08-08-2021 18:45:53.821 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Arama b\303\274y\303\274te\303\247 simgesine t\304\261kla" parameterizedStepValue:"Arama b\303\274y\303\274te\303\247 simgesine t\304\261kla" > > 
+08-08-2021 18:45:54.072 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"1 saniye  bekle" > 
+08-08-2021 18:45:54.073 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"1 saniye  bekle" parameterizedStepValue:"1 saniye  bekle" > > 
+08-08-2021 18:45:54.273 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\303\234r\303\274n arama alan\304\261na <keyword> bilgisini gir ve ara" > 
+08-08-2021 18:45:54.274 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"\303\234r\303\274n arama alan\304\261na {} bilgisini gir ve ara" parameterizedStepValue:"\303\234r\303\274n arama alan\304\261na <keyword> bilgisini gir ve ara" parameters:"keyword" > > 
+08-08-2021 18:45:54.322 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Arama alan\304\261na <keyword> bilgisini yaz" > 
+08-08-2021 18:45:54.322 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Arama alan\304\261na {} bilgisini yaz" parameterizedStepValue:"Arama alan\304\261na <keyword> bilgisini yaz" parameters:"keyword" > > 
+08-08-2021 18:46:18.651 [Gauge] [INFO] Concept file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.cpt
+08-08-2021 18:46:18.651 [Gauge] [ERROR] Parse failure: [[ParseError] failed to read concept file C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.cpt]
+08-08-2021 18:46:18.651 [Gauge] [INFO] Concept file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.cpt
+08-08-2021 18:46:18.652 [Gauge] [ERROR] Parse failure: [[ParseError] failed to read concept file C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.cpt]
+08-08-2021 18:46:34.118 [Gauge] [INFO] Concept file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.cpt
+08-08-2021 18:46:34.120 [Gauge] [ERROR] Parse failure: [[ParseError] failed to read concept file C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.cpt]
+08-08-2021 18:46:34.124 [Gauge] [INFO] Concept file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.cpt
+08-08-2021 18:46:34.125 [Gauge] [ERROR] Parse failure: [[ParseError] failed to read concept file C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.cpt]
+08-08-2021 18:46:38.530 [Gauge] [INFO] Concept file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.cpt
+08-08-2021 18:46:38.532 [Gauge] [ERROR] Parse failure: [[ParseError] failed to read concept file C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.cpt]
+08-08-2021 18:46:38.534 [Gauge] [INFO] Concept file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.cpt
+08-08-2021 18:46:38.537 [Gauge] [ERROR] Parse failure: [[ParseError] failed to read concept file C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.cpt]
+08-08-2021 18:46:54.244 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:46:54.244 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:46:54.267 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:46:54.268 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:46:54.500 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open GetirSample App" > 
+08-08-2021 18:46:54.500 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open GetirSample App" parameterizedStepValue:"Open GetirSample App" > > 
+08-08-2021 18:46:54.501 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:46:54.501 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:46:54.502 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:46:54.503 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:46:54.504 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:46:54.506 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:46:54.597 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:46:54.598 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:46:54.652 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:46:54.652 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:46:54.684 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:46:54.685 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:46:54.912 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:46:54.912 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:46:55.156 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:46:55.156 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:46:55.157 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:46:55.157 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:46:55.737 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 18:46:55.740 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<> 
+08-08-2021 18:46:55.744 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 18:46:55.744 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 18:46:57.865 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open ge" > 
+08-08-2021 18:46:57.872 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open ge" parameterizedStepValue:"Open ge" > > 
+08-08-2021 18:46:57.886 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 18:46:57.886 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<> 
+08-08-2021 18:46:57.887 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 18:46:57.887 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 18:46:57.891 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 18:46:57.893 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<> 
+08-08-2021 18:46:57.895 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 18:46:57.896 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 18:47:05.293 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open g" > 
+08-08-2021 18:47:05.294 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open g" parameterizedStepValue:"Open g" > > 
+08-08-2021 18:47:06.164 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:06.165 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:06.226 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:06.226 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:06.435 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:06.435 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:06.436 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:06.436 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:06.437 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:06.437 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:06.484 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:06.484 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:06.582 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:06.582 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:06.586 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:06.589 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:06.740 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:06.741 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:06.742 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:06.742 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:06.745 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:06.745 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:06.745 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:06.746 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:11.464 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:11.464 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:11.467 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:11.467 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:11.668 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:11.673 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:11.675 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:11.676 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:11.682 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:11.682 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:11.805 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:11.806 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:11.832 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:11.832 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:11.881 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:11.882 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:12.030 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:12.030 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:12.264 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:12.264 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:13.671 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.spec
+08-08-2021 18:47:13.674 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.spec
+08-08-2021 18:47:26.555 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.spec
+08-08-2021 18:47:26.555 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.spec
+08-08-2021 18:47:28.012 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.spec
+08-08-2021 18:47:28.012 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.spec
+08-08-2021 18:47:28.747 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:28.749 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:28.779 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:28.779 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:28.957 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:28.958 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:28.959 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:28.959 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:28.961 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:28.961 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:29.254 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 18:47:29.255 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<> 
+08-08-2021 18:47:29.257 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 18:47:29.257 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 18:47:30.684 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+08-08-2021 18:47:30.684 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<> 
+08-08-2021 18:47:30.685 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+08-08-2021 18:47:30.685 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+08-08-2021 18:47:30.957 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:30.958 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:30.979 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:30.982 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:31.178 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:31.180 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:31.185 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:31.185 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:31.189 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+08-08-2021 18:47:31.190 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+08-08-2021 18:47:32.268 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.spec
+08-08-2021 18:47:32.274 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.spec
+08-08-2021 18:50:41.846 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.spec
+08-08-2021 18:50:41.851 [Gauge] [INFO] Spec file added / modified: C:\Users\Dell\IdeaProjects\AppiumMobileTest\specs\GetirSample.spec

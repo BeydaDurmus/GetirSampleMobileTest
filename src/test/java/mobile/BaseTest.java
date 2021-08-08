@@ -1,3 +1,5 @@
+package mobile;
+
 import com.thoughtworks.gauge.AfterScenario;
 import com.thoughtworks.gauge.BeforeScenario;
 import io.appium.java_client.MobileElement;
@@ -23,7 +25,7 @@ public class BaseTest {
     @BeforeScenario
     public static void setup () throws MalformedURLException {
         DesiredCapabilities caps = new DesiredCapabilities();
-        caps.setCapability("deviceName", "Pixel XL API 27");
+        caps.setCapability("deviceName", "Pixel 4XL API 27 2");
         caps.setCapability("udid", "emulator-5554"); //DeviceId from "adb devices" command
         caps.setCapability("platformName", "Android");
         caps.setCapability("appPackage", "com.allandroidprojects.getirsample");
