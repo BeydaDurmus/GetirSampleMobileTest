@@ -15,7 +15,7 @@ pipeline {
         stage ('Testing Stage') {
 
             steps {
-                bat "mvn test"
+                bat "mvn gauge:execute -DspecsDir=src/test/java/mobile/specs/GetirSample.spec"
 
             }
         }
